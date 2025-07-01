@@ -4,7 +4,6 @@ export default defineConfig({
   base: '/Skillhub/',
   plugins: [
     tailwindcss(),
-    
   ],
   fontFamily: {
     sans: ['"Open Sans"', 'sans-serif'],
