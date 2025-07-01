@@ -1,7 +1,7 @@
 {
   "name": "package.json",
   "private": true,
-  "homepage": "https://afzaljadoon.github.io/skillhub/",
+  "homepage": "https://afzaljadoon.github.io/Skillhub/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
